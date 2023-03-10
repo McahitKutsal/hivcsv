@@ -1,4 +1,4 @@
-,smiles,activity,HIV_active
+index,smiles,activity,HIV_active
 0,CNC(=O)Nc1ccncc1,CI,0
 1,O=C1NC(O)c2cccc(Cl)c2O1,CI,0
 2,O=S1(=O)C=Cc2ccccc2CC1,CI,0
