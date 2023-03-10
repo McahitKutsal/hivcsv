@@ -164,7 +164,6 @@
 165,CC(C)(C)OC(=O)c1cccnc1C=NO,CI,0
 166,CNCCSS(=O)(=O)CCNC,CM,1
 167,CC(C)CCCC(C)C1CCC2C3CCC4CC(CCC=C(c5cc(Cl)c(OCc6ccccc6[N+](=O)[O-])c(C(=O)O)c5)c5cc(Cl)c(OCc6ccccc6[N+](=O)[O-])c(C(=O)O)c5)CCC4(C)C3CCC12C.[NaH],CM,1
-168,[CH2-][Pd-2]1([CH2-])[n+]2cccc3ccc4ccc[n+]1c4c32,CM,1
 169,CCN(CC)C(=S)NN=Cc1ccccn1,CI,0
 170,N#Cc1c(=O)c2ccccc2n2ccccc12,CI,0
 171,CSc1cc(-c2ccc(Cl)cc2)s[s+]1,CM,1
