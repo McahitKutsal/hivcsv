@@ -75,7 +75,6 @@
 75,CN1C(C)(c2ccccc2)c2ccccc2S1(=O)=O,CA,1
 76,O=C(O)C=Cc1ccccc1[N+](=O)[O-],CI,0
 77,OC(c1cccs1)c1cc2ccccc2s1,CI,0
-78,COc1cccc2c1[OH+][Cu-4]13([S+]=C(Nc4ccccc4)[N-][N+]1=C2)[n+]1cccc2ccc4ccc[n+]3c4c21,CM,1
 79,CC(=O)OC1C(OC(=O)CC(C)C)c2c(ccc3ccc(=O)oc23)OC1(C)C,CM,1
 80,Cc1cn(C2CC(F)C(COC(=O)CCCCCCCCCCCBr)O2)c(=O)[nH]c1=O,CA,1
 81,CCOC(=O)C(=O)C=P(c1ccccc1)(c1ccccc1)c1ccccc1,CM,1
